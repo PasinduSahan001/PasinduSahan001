@@ -20,7 +20,7 @@
   
 <h3 align="center">Connect with me:</h3>
 
-<img width="15%" align="left" src="https://github.com/PasinduSahan001/Readme-testing/blob/main/octocat-contact.png" alt="Github Contact">
+<img width="15%" align="left" src="https://github.com/PasinduSahan001/PasinduSahan001/blob/main/octocat-contact.png" alt="Github Contact">
 
 &nbsp;
 &nbsp;
@@ -49,7 +49,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<img width="15%" align="right" src="https://github.com/PasinduSahan001/Readme-testing/blob/main/octocat-1710955353745.png" alt="Github Contact">
+<img width="15%" align="right" src="https://github.com/PasinduSahan001/PasinduSahan001/blob/main/octocat-tools.png" alt="Github Contact">
 <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -179,7 +179,7 @@
   <img width="85%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="NUX">
 </p>
 <h3 align="center"> Github Streaks </h3>
-<img width="15%" align="left" src="https://github.com/PasinduSahan001/Readme-testing/blob/main/octocat-1710956816761.png" alt="Github Streaks">
+<img width="15%" align="left" src="https://github.com/PasinduSahan001/PasinduSahan001/blob/main/octocat-streaks.png" alt="Github Streaks">
 
 <p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindusahan001&"
         alt="Github Streaks" /></p>
